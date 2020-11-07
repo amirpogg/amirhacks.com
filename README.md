@@ -1,5 +1,10 @@
-# amirhacks.com
+#amirhacks development repo
 
-my cydia repo created for jailbroken device
-https://amirpogg.github.io/amirhacks.com
-have a nice day
+Developer only
+
+
+package on my repo
+
+-debup 
+
+Have a nice day!

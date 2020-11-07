@@ -1,0 +1,54 @@
+Package: com.amirhacks.icleanerpro
+Version: 7.9.0 Architecture: iphoneos-arm
+Section: utilities
+Maintainer:amirhacks
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: ./debs/com.amirhacks.icleaner_7.9.0_iphoneos-arm.deb
+Size: 6741716
+MD5: 1dca05aefa5106262b721ef9eadacc88
+Description: idk
+Name: Icleaner
+Author: amirhacks
+Depictions: https://amirpogg.github.io/amirhacks.com/depictions/?p=com.amirhacks.icleanerpro
+
+Package: com.amirhacks.debup
+Version: 1.0.0
+Section: Development
+Maintainer: amirhacks <amirramos39@gmail.com>
+Depends: dpkg-perl, git
+Architecture: iphoneos-arm
+Filename: ./debs/com.amirhacks.debup_1.0.0_iphoneos-arm.deb
+Size: 2892
+MD5sum: 4aa8d14b2fb61f49f8409e6f28945bce
+Description: A command line for developers to manage and upload deb packages to cydia repo (Github cydia repo) with a single click.
+Name: debupload
+Author: amirhacks <amirramos39@gmail.com>
+Depiction: https://amirpogg.github.io/amirhacks.com/depictions/com.amirhacks.debup
+
+Package: com.amirhacks.ipa2deb
+Version: 1.4
+Section: Tweaks 
+Maintainer: amirhacks <amirramos39@gmail.com>
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.amirhacks.ipa2deb_1.4_iphoneos-arm.deb
+Size: 2194
+MD5: 781a062f0125d3f5aeba7d3737020774
+Description: convert ipa to deb via command line 
+Author: amirhacks <amirramos39@gmail.com>
+Depictions: https://amirpogg.github.io/depictions/com.amirhacks.ipa2deb
+
+Package: com.amirhacks.a-bypass
+Version: 1.4
+Section: Tweaks
+Maintainer: amirhacks <amirramos39@gmail.com>
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.amirhacks.a-bypass_1.4_iphoneos-arm.deb
+Size: 131978
+MD5: e0c219e372b2d966823ed5100a6aac6a
+Description: Jailbreak Detection Bypass
+Author: amirhacks <amirramos39@gmail.com>
+Depictions:https://amirpogg.gihub.io/depictions/com.amirhacks.a-bypass
